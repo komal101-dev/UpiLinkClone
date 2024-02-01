@@ -1,0 +1,56 @@
+.screenshot {
+    height: 50%;
+    width: 65%;
+    border: 1px solid black;
+    margin: 2% auto;
+
+}
+
+.screenshot img {
+    height: 100%;
+    width: 100%;
+}
+
+.screenshot {
+    display: flex;
+    flex-direction: row;
+}
+
+.cont {
+    display: flex;
+    flex-direction: row;
+}
+
+.tab {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.tab1 {
+    width: 65%;
+    border-collapse: collapse;
+
+}
+
+.tab2 {
+    width: 90%;
+    float: right;
+    margin: 3%;
+}
+
+.tab2 {
+    border-collapse: collapse;
+}
+
+.tab2 td {
+    border: none;
+
+
+}
+
+.buy {
+    width: 90%;
+    margin: 3%;
+    height: 2rem;
+}

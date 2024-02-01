@@ -1,0 +1,72 @@
+.rect {
+    width: 22rem;
+    height: 29rem;
+    background-color: rgb(35, 102, 173);
+    border: 1px solid bisque;
+    margin: 7% auto;
+    padding: 20% auto;
+    border-radius: 2%;
+
+}
+
+.rect h2 {
+    margin: 14% 0 12% 28%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box {
+    height: 12rem;
+    margin: 0% auto 2%;
+    width: 12rem;
+    border: 1px solid bisque;
+    border-radius: 3%;
+    background-color: blue;
+}
+
+input[type=text] {
+    display: flex;
+    margin: 15% auto;
+    height: 1.5rem;
+    padding-left: 3%;
+
+
+
+}
+
+button {
+    display: flex;
+    padding: 3% 0 0 4%;
+    margin: 0% auto;
+    height: 1.8rem;
+    width: 5rem;
+    font-size: medium;
+    font-weight: bold;
+
+    background-color: rgb(15, 143, 255);
+    color: white;
+
+}
+
+button:hover {
+    border: 3px solidd black;
+    color: black;
+}
+
+
+.rect h4,
+.rect h6,
+
+.rect p {
+    padding: 2%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+}
+
+.rect {
+    justify-content: center;
+    padding: auto;
+}

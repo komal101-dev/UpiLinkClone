@@ -1,0 +1,36 @@
+.contact .chat {
+    margin: 6%;
+}
+
+.contact {
+    padding: 14.5%;
+}
+
+.contact button {
+    margin-left: 10%;
+    padding: 2% 5% 2% 5%;
+    background-color: #128c7e;
+    border-radius: 2%;
+    border: 1px solid black;
+    color: white;
+}
+
+.contact .sup {
+    margin: 5%;
+}
+
+.contact .dont {
+    margin: 1% 0 3% 5%;
+}
+
+.contact a {
+    text-decoration: none;
+    margin: 20% 5%;
+    padding: 2% 6%;
+    background-color: #128c7e;
+    color: white;
+}
+
+body {
+    background-color: beige;
+}

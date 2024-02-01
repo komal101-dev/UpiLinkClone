@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+
+
+.cont {
+    height: 80%;
+    width: 80%;
+    margin: auto;
+    padding: 12% 0 30% 0;
+
+}
+
+.cont h1 {
+    margin-bottom: 2%;
+
+}
+
+.cont h4 {
+    margin-bottom: 3%;
+}
+
+.cont button {
+    padding: 2%;
+    background-color: dodgerblue;
+    margin-left: 2%;
+    color: white;
+
+}
